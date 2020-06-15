@@ -1,0 +1,14 @@
+
+
+    /*je suis un commentairer*/
+    /*je sui un commenttaire multi-lignes*/
+p{
+    color:orangered
+}
+/* body domine, color:red donc le couleur a changé rouge*/
+
+.paral{color: blue;}
+span{color: yellow}
+
+#test{
+    color: black;
